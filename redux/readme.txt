@@ -1,0 +1,4 @@
+- @redux-toolkit
+- redux thunks
+- actions
+- slice from @redux-toolkit

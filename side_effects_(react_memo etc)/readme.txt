@@ -1,0 +1,2 @@
+- react memo for params as prinitives + objs
+- react useCallback for functions

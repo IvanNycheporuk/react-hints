@@ -1,0 +1,3 @@
+- auth example
+- protecting pages
+- using ontext
